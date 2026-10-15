@@ -5,3 +5,6 @@ Step 2 is the next step after 1
 we added a different line in the other copy"
 
 Mars exploration requires careful planning.
+
+Mars has two moons.
+
